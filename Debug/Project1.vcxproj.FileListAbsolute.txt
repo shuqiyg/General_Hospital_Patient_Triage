@@ -1,0 +1,2 @@
+D:\Git_Upload\Project1\Debug\General_Hospital_Paitent_Triage.exe
+D:\Git_Upload\Project1\Debug\General_Hospital_Paitent_Triage.pdb
